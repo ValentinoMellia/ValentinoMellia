@@ -36,7 +36,7 @@ Working in a 10-person Scrum team on the Market module of a gamified e-learning 
 
 **Stack:** Java, Spring Boot, Angular, JavaScript, PostgreSQL, Docker, Kafka, and Taiga.
 
-### 🃏 Personal project — Pokémon TCG application
+### 🃏 Academic project — Pokémon TCG application
 
 Built a functional Pokémon TCG application independently, applying object-oriented programming and design patterns.
 
