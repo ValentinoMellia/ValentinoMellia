@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="./profile.png" width="180" alt="Valentino Mellia Bonetto" />
 
   <h1>Hi, I'm Valentino Mellia Bonetto 👋</h1>
 
